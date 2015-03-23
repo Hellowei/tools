@@ -1,0 +1,2 @@
+点击excel2lua.bat，把excel里所有电子表格转为lua并输出到output上。
+bin用到的dll来源互联网，有一些bug例如程序执行完会崩掉，但对我们转表无伤大雅。
